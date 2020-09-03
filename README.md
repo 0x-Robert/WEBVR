@@ -8,3 +8,9 @@ web html,css,js
 
 
 링크: https://shypang.github.io/WEBVR/index.html
+
+
+
+파이썬 플라스크로 구동하는 법
+1.파이썬 설치 필수
+2. 터미널에서 파이썬이 있는 파일경로에서 python test.py 실행 (대신 8001포트는 컴퓨터에서 사용하고 있는포트가 없어야됨)

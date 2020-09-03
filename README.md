@@ -20,5 +20,6 @@ web html,css,js
 
 구성
 
-img/ jpg파일
-templates/ html파일
+1.img/ jpg파일
+2.templates/ html파일
+3.gltf / gltf파일 렌더링은 현재 구현 

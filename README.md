@@ -7,7 +7,7 @@ web html,css,js
 
 
 
-링크: https://shypang.github.io/WEBVR/index.html
+링크: https://shypang.github.io/WEBVR/templates/index.html
 
 
 
